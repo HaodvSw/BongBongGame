@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c661c80e9c1034cacb7094cd605c1088
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - transformWater: {instanceID: 0}
+  - moveUp: {fileID: 4367006798377404570, guid: 875d39a4ddea84320b0986783d61a693, type: 3}
+  - moveDown: {fileID: 2824371872750794173, guid: 91ea955f83ec3467d8b0d9079605b173, type: 3}
+  - moveLeft: {fileID: 6037299303866708597, guid: ba6dab83694354c9eb721cdd55c868f9, type: 3}
+  - moveRight: {fileID: 8238455816852519619, guid: bf45b3a370cf0429c8fd40711bb689ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
